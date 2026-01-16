@@ -16,7 +16,7 @@ The goal of this site is to provide a clean landing page with:
 
 The site is hosted using **GitHub Pages** from this repository.
 
-- **Website:** `https://<your-github-username>.github.io/<this-repo-name>/`
+- **Website:** https://mohamed7-dev.github.io/vidora-marketing-website/
 
 ---
 
